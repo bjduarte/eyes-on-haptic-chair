@@ -1,0 +1,159 @@
+{
+	"durations": [
+		{ "pulse": 250, "gap": 50 }
+	],
+
+
+  "patterns": [
+    {
+      "name": "e1a1",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 0, 1, 8, 9 ]
+        }
+      ]
+    },
+    {
+      "name": "e1a2",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 1, 2, 3, 9, 10, 11 ]
+        }
+      ]
+    },
+    {
+      "name": "e1a3",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 3, 4, 11, 12 ]
+        }
+      ]
+    },
+    {
+      "name": "e1a4",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 4, 5, 6, 12, 13, 14 ]
+        }
+      ]
+    },
+    {
+      "name": "e1a5",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 6, 7, 14, 15 ]
+        }
+      ]
+    },
+    {
+      "name": "e2a1",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 16, 17, 24, 25 ]
+        }
+      ]
+    },
+    {
+      "name": "e2a2",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 17, 18, 19, 25, 26, 27 ]
+        }
+      ]
+    },
+    {
+      "name": "e2a3",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 19, 20, 27, 28]
+        }
+      ]
+    },
+    {
+      "name": "e2a4",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 20, 21, 22, 28, 29, 30 ]
+        }
+      ]
+    },
+    {
+      "name": "e2a5",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 22, 23, 30, 31 ]
+        }
+      ]
+    },
+    {
+      "name": "e3a1",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 32, 33, 40, 41]
+        }
+      ]
+    },
+    {
+      "name": "e3a2",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 33, 34, 35, 41, 42, 43 ]
+        }
+      ]
+    },
+    {
+      "name": "e3a3",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 35, 36, 43, 44 ]
+        }
+      ]
+    },
+    {
+      "name": "e3a4",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 36, 37, 38, 44, 45, 46 ]
+        }
+      ]
+    },
+    {
+      "name": "e3a5",
+      "image": "",
+      "vibrations": [
+        {
+          "beat": 0,
+          "motors": [ 38, 39, 46, 47 ]
+        }
+      ]
+    }
+  ]
+}
